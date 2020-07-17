@@ -1,8 +1,8 @@
 //
-//  MeVC.h
+//  RoundImageView.h
 //  TodayNews
 //
-//  Created by Suramire on 2020/7/13.
+//  Created by Suramire on 2020/7/17.
 //  Copyright © 2020 Suramire. All rights reserved.
 //
 
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface MeVC : UIViewController
+@interface RoundImageView : UIImageView
 
 @end
 
